@@ -1,5 +1,6 @@
 import jav.io.*;
 class Sample
 {
-
+int x;
+int y;
 }
